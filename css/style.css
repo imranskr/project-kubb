@@ -1,0 +1,84 @@
+/* ======================= common css start ============== */
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
+/* ======================= common css end ============== */
+/* ======================= common css start ============== */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6,p,a{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+/* ======================= common css end ============== */ 
+/* ======================= common css start ============== */
+:root{
+    --jomhuria:'Jomhuria', serif;
+    --pramary_color:#000000;
+    --band_color:#D81B3D;
+}
+/* ======================= common css end ============== */ 
+/* ======================= common css start ============== */
+.main_menu{
+    width: 100%;
+    height: 60px;
+    margin-top: 40px;
+    padding-left: 46px;
+    /* background: red; */
+    position: absolute;
+}
+.main_menu ul li a{
+    font-size: 25px;
+    font-weight: 400;
+    font-family: var(--jomhuria);
+    color: var(--pramary_color);
+    margin-left: 35px;
+}
+.main_menu ul .menu_icon a{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background: rgba(216, 27, 62, 0.14);
+    color: var(--band_color) !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: 20.35px;
+}
+/* ======================= common css end ============== */ 
+/* ======================= common css start ============== */
+#banner{
+    background: #F5F5F5;
+    width: 100%;
+    padding-bottom: 60px;
+}
+.banner_img{
+    width: 503px;
+    background: var(--band_color);
+    padding-top: 235px;
+}
+/* ======================= common css end ============== */ 
+/* ======================= common css start ============== */
+
+/* ======================= common css end ============== */ 
+/* ======================= common css start ============== */
+
+/* ======================= common css end ============== */ 
+/* ======================= common css start ============== */
+
+/* ======================= common css end ============== */ 
+/* ======================= common css start ============== */
+
+/* ======================= common css end ============== */ 
+/* ======================= common css start ============== */
+
+/* ======================= common css end ============== */ 
